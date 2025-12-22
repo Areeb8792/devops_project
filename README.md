@@ -82,18 +82,18 @@ Resolving conflicts
 Updating documentation
 
 ## Screenshots
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20122712.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20123031.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20123732.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20123742.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20124047.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20124111.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20124728.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20124754.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20125613.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20125823.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20131944.png
-https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20132821.png
+![sc1](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20122712.png)
+![sc2](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20123031.png)
+![sc3](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20123732.png)
+![sc4](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20123742.png)
+![sc5](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20124047.png)
+![sc6](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20124111.png)
+![sc6](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20124728.png)
+![sc7](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20124754.png)
+![sc8](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20125613.png)
+![sc9](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20125823.png)
+![sc10](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20131944.png)
+![sc11](https://github.com/Areeb8792/devops_project/blob/master/screenshots/Screenshot%202025-12-22%20132821.png)
 
 ## Challenges faced
 
