@@ -44,7 +44,7 @@ experiment:-	Experimental changes and conflict simulation
 
 
 ## Merge Conflict
-A merge conflict was intentionally created between the main branch and the experiment branch by modifying the same line in index.html.
+A merge conflict was created between the main branch and the experiment branch by modifying the same line in index.html.
 
 Steps Followed:
 
